@@ -1,0 +1,7 @@
+What kind of Pizza
+What type of toppings
+Types of crust thin or thick
+Pick up or carryout 
+Types of sides 
+Type of drinks 
+Cash or Checkcard
